@@ -5,7 +5,7 @@
 <br>
 <br>
 <p>Com a Análise Exploratória, analiso as informações que tenho na base de dados.
-  Tratar os dados. Padronizar. </p> 
+  Trato os dados. Padronizo. </p> 
   
 <h3>Após o tratamento de dados: </h3>
 
