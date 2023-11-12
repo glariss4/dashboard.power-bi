@@ -38,7 +38,7 @@
 <p>With Exploratory Analysis, I analyze the information I have in the database.
    Process the data. Standardize./p>
   
-<h3>After data processing:.</h3>
+<h3>After data processing: </h3>
 
  - billing analysis
  - total orders
