@@ -9,7 +9,7 @@
   
 <h3>Após o tratamento de dados: </h3>
 
- - analise do faturamento
+ - análise do faturamento
  - total pedidos
  - total motoristas
  - gráficos
