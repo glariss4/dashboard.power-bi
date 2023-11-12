@@ -7,19 +7,43 @@
 <p>Com a Análise Exploratória, analiso as informações que tenho na base de dados.
   Tratar os dados. Padronizar./p> 
   
-<p>Após o tratamento de dados:. </p>
+<h2>Após o tratamento de dados:. </h2>
 - analise do faturamento
 - total pedidos
 - total motoristas
 - gráficos
 - filtros por período (segmentação de dados)
 - treemap
+<br>
+<br>
 
-<p>e com isso, há o nosso Dashboard pronto.
-veja: 
-  aria-label="dashboard power bi" <href="https:[//mail.google.com/mail/?tab=rm&ogbl>](https://app.powerbi.com/view?r=eyJrIjoiOWEyNTVlNGMtZWQ1Ni00M2RhLWFiZjMtYmFhMmU5YTBlODRmIiwidCI6ImIwZTczMzVmLWZkMWYtNDZhZC05OGM3LTU1ZTZlNGUyMjJlYSJ9)https://app.powerbi.com/view?r=eyJrIjoiOWEyNTVlNGMtZWQ1Ni00M2RhLWFiZjMtYmFhMmU5YTBlODRmIiwidCI6ImIwZTczMzVmLWZkMWYtNDZhZC05OGM3LTU1ZTZlNGUyMjJlYSJ9"<p>
+<p> e com isso, há o nosso Dashboard pronto. </p>
 
+<br>
+<br>
+<br>
+_ENGLISH LANGUAGE_
 
+<br>
+<br>
 
+<h1>Power BI Dashboard</h1>
+<h1>Deliveries and Returns Control</h1>
+<br>
+<p>Creating a Billing and Logistics Management Dashboard </p>
+<br>
+<br>
+<p>With Exploratory Analysis, I analyze the information I have in the database.
+   Process the data. Standardize./p>
+  
+<h2>After data processing:.</h2>
+- billing analysis
+- total orders
+- total drivers
+- graphics
+- filters by period (data segmentation)
+- treemap
+
+<p> and with that, there is our Dashboard ready.</p> 
 
 
