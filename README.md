@@ -22,7 +22,8 @@
 <br>
 <br>
 <br>
-_ENGLISH LANGUAGE_
+
+ _ENGLISH LANGUAGE_
 
 <br>
 <br>
@@ -37,12 +38,13 @@ _ENGLISH LANGUAGE_
    Process the data. Standardize./p>
   
 <h3>After data processing:.</h3>
-- billing analysis
-- total orders
-- total drivers
-- graphics
-- filters by period (data segmentation)
-- treemap
+
+ - billing analysis
+ - total orders
+ - total drivers
+ - graphics
+ - filters by period (data segmentation)
+ - treemap
 
 <p> and with that, there is our Dashboard ready.</p> 
 
