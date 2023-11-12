@@ -8,12 +8,12 @@
   Tratar os dados. Padronizar. </p> 
   
 <h3>Após o tratamento de dados:. </h3>
-- analise do faturamento
-- total pedidos
-- total motoristas
-- gráficos
-- filtros por período (segmentação de dados)
-- treemap
+ - analise do faturamento
+ - total pedidos
+ - total motoristas
+ - gráficos
+ - filtros por período (segmentação de dados)
+ - treemap
 <br>
 <br>
 
