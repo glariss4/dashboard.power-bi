@@ -1,13 +1,13 @@
 <h1>Dashboard Power BI</h1>   
-<h1>Controle de Entregas e Devoluções</h1>   
+<h2>Controle de Entregas e Devoluções</h2>   
 <br>
 <p>Criando um Dashboard de Gestão de Faturamento e Logística </p>
 <br>
 <br>
 <p>Com a Análise Exploratória, analiso as informações que tenho na base de dados.
-  Tratar os dados. Padronizar./p> 
+  Tratar os dados. Padronizar. </p> 
   
-<h2>Após o tratamento de dados:. </h2>
+<h3>Após o tratamento de dados:. </h3>
 - analise do faturamento
 - total pedidos
 - total motoristas
@@ -28,7 +28,7 @@ _ENGLISH LANGUAGE_
 <br>
 
 <h1>Power BI Dashboard</h1>
-<h1>Deliveries and Returns Control</h1>
+<h2>Deliveries and Returns Control</h2>
 <br>
 <p>Creating a Billing and Logistics Management Dashboard </p>
 <br>
@@ -36,7 +36,7 @@ _ENGLISH LANGUAGE_
 <p>With Exploratory Analysis, I analyze the information I have in the database.
    Process the data. Standardize./p>
   
-<h2>After data processing:.</h2>
+<h3>After data processing:.</h3>
 - billing analysis
 - total orders
 - total drivers
